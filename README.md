@@ -1,5 +1,5 @@
 # Smart Order 포트폴리오, [[URL]](http://211.200.100.168:9100/)
-
+교육과정: https://blog.naver.com/dkxkgh98      (블로그에 공부한 내용들을 정리했습니다.)
 프로젝트명 : Smart Order  
 
 수행 : 임성현 외 1명
@@ -35,4 +35,3 @@
           SCM: Git Hub  
           Test: JUnit  
           Build Tool: Maven  
-교육내용 : https://blog.naver.com/dkxkgh98      (블로그에 공부한 내용들을 정리했습니다.)
