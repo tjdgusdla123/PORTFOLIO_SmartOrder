@@ -31,20 +31,12 @@ https://blog.naver.com/dkxkgh98   (교육과정을 수행하면서 공부한 것
 메뉴조회, 메뉴카트담기, 카트에 담은 리스트 가져오기.  
 
 개발환경 :  Operating System: Windows 10, Mac OS X  
-         
-         Database: MySQL,Oracle
-         
-         Web Application Server: Apache Tomcat 9.0  
-         
-         Programming Language: JAVA 1.8  
-          
+         Database: MySQL,Oracle        
+         Web Application Server: Apache Tomcat 9.0           
+         Programming Language: JAVA 1.8           
           IDE: STS 3  
-         
          Framework: Spring, MyBatis  
-         
          SCM: Git Hub  
-         
          Test: JUnit  
-         
          Build Tool: Maven  
 
