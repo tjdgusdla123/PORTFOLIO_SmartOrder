@@ -35,4 +35,4 @@
           SCM: Git Hub  
           Test: JUnit  
           Build Tool: Maven  
-교육내용 : https://blog.naver.com/dkxkgh98(블로그에 공부한 내용들을 정리했습니다.)
+교육내용 : https://blog.naver.com/dkxkgh98      (블로그에 공부한 내용들을 정리했습니다.)
