@@ -1,10 +1,10 @@
 # Smart Order 포트폴리오, [[URL]](http://211.200.100.168:9100/)
 
-교육과정: https://blog.naver.com/dkxkgh98      (블로그에 공부한 내용들을 정리했습니다.)
+https://blog.naver.com/dkxkgh98(교육과정을 수행하면서 공부한 것들을 정리햇습니다.)
 
 프로젝트명 : Smart Order  
 
-수행 : 임성현 외 1명
+수행 : 임성현 외1명
 
 프로젝트 소개 :  
             메뉴의 변화가 자주 있을 수 있는 식당에서 메뉴판을 가져다 주지 않아도  
@@ -15,7 +15,10 @@
             모달창에 메뉴의 상세정보를 출력합니다.  
             원하는 메뉴를 카트에 담을 수 있습니다.    
             Kakao API 를 이용하여 위치정보를 받아올 수 있게 구현했습니다.  
+            저는 회원가입 ,로그인,회원삭제,회원정보수정, 게시글작성, 게시글전체조회 ,게시글상세조회,게시글수정(본인글 선택시), 게시글삭제(본인글 선택시) 부분을 맡아서 수행하였습니다.
+            
 
+![기훈이네김밥천국닉네임테이블1번](https://user-images.githubusercontent.com/63835963/96061362-fc5d7580-0ecd-11eb-9309-e8da519073f5.png)    
 
 
 -회원  
@@ -28,7 +31,7 @@
 메뉴조회, 메뉴카트담기, 카트에 담은 리스트 가져오기.  
 
 개발환경 :  Operating System: Windows 10, Mac OS X  
-          Database: MySQL  
+          Database: MySQL,Oracle
           Web Application Server: Apache Tomcat 9.0  
           Programming Language: JAVA 1.8  
           IDE: STS 3  
@@ -36,3 +39,4 @@
           SCM: Git Hub  
           Test: JUnit  
           Build Tool: Maven  
+교육내용:https://blog.naver.com/dkxkgh98
