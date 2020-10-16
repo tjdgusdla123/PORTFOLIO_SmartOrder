@@ -2,7 +2,7 @@
 
 프로젝트명 : Smart Order  
 
-수행 : 배기훈
+수행 : 임성현 외 1명
 
 프로젝트 소개 :  
             메뉴의 변화가 자주 있을 수 있는 식당에서 메뉴판을 가져다 주지 않아도  
@@ -35,4 +35,4 @@
           SCM: Git Hub  
           Test: JUnit  
           Build Tool: Maven  
-            
+교육내용 : https://blog.naver.com/dkxkgh98(블로그에 공부한 내용들을 정리했습니다.)
