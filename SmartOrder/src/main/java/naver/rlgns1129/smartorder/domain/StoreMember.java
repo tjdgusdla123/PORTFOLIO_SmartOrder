@@ -14,6 +14,7 @@ public class StoreMember {
 	private String memberIsRemove;
 	private String memberverify;
 	private String storeNickname;
+	
 
 	
 }

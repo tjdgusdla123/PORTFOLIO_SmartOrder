@@ -49,6 +49,7 @@ public class StoreMemberDAO {
 	public int secession(String memberNickname) {
 		return sqlSession.delete("storemember.deletestoremember", memberNickname);
 	}
+
 	
 	
 }
