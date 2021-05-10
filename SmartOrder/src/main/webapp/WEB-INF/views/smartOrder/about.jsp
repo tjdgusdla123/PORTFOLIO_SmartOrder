@@ -105,7 +105,7 @@
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto"> 
         <p>프로젝트명 : Smart Order</p>
-        <p>수행 : 배기훈 </p>
+        <p>수행 : 임성현 외1명 </p>
         <p>프로젝트 소개 : </p>
         <p>메뉴의 변화가 자주 있을 수 있는 식당에서 메뉴판을 가져다 주지 않아도  
                고객이 메뉴를 간편하게 볼 수 있으며 주문할 수 있는 시스템을 만들고 싶었습니다. </p>
@@ -128,7 +128,7 @@
         <p>메뉴조회</p>
         <p>개발환경 :</p>
         <p>Operating System: Windows 10, Mac OS X</p>
-        <p>Database: MySQL </p>
+        <p>Database: MySQL,Oracle </p>
         <p>Web Application Server: Apache Tomcat 9.0</p>
         <p>IDE: STS 3</p>
       	<p>Framework: Spring, MyBatis</p>
