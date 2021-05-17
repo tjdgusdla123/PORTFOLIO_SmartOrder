@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 @Controller
 public class StoreOrderPageController {
-
+     //qr code
 	//http://localhost:8080/orderinfo/table?tablename=1&storenickname=기훈이네김밥천국닉네임
 	@RequestMapping(value = {"orderinfo/table"} , method = RequestMethod.GET)
 	public String saveTableName(HttpServletRequest request, HttpServletResponse response) {
